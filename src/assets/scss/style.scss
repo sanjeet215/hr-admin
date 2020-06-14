@@ -1,0 +1,9 @@
+@import "variables";
+@import "~@coreui/coreui/scss/coreui";
+@import "custom";
+@import "~@coreui/coreui/scss/variables";
+
+body {
+    background-color: white;
+    color: black;
+}
